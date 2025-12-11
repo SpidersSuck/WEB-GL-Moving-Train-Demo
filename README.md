@@ -16,8 +16,29 @@ Full-stack computer graphics project demonstrating real-time 3D rendering, proce
 
 ### User Controls
 
+---
 
+## 🎯 Controls Reference
 
+| Action | Key(s) |
+|--------|--------|
+| **Camera Mode 1** - Follow Train | `1` |
+| **Camera Mode 2** - Side View | `2` |
+| **Camera Mode 3** - Top-Down | `3` |
+| **Camera Mode 4** - Orbital | `4` |
+| **Camera Mode 5** - Free Camera | `5` |
+| **Increase Speed** | `↑` Arrow |
+| **Decrease Speed** | `↓` Arrow |
+| **Move Forward** (Free Cam) | `W` |
+| **Move Backward** (Free Cam) | `S` |
+| **Strafe Left** (Free Cam) | `A` |
+| **Strafe Right** (Free Cam) | `D` |
+| **Move Up** (Free Cam) | `E` |
+| **Move Down** (Free Cam) | `Q` |
+| **Look Around** (Free Cam) | Mouse Drag |
+| **Pause/Resume** | `Spacebar` |
+
+---
 
 ## 💻 Technical Stack
 
@@ -82,27 +103,7 @@ WebGL-Train-Scene-Demo/
 
 ---
 
-## 🎯 Controls Reference
 
-| Action | Key(s) |
-|--------|--------|
-| **Camera Mode 1** - Follow Train | `1` |
-| **Camera Mode 2** - Side View | `2` |
-| **Camera Mode 3** - Top-Down | `3` |
-| **Camera Mode 4** - Orbital | `4` |
-| **Camera Mode 5** - Free Camera | `5` |
-| **Increase Speed** | `↑` Arrow |
-| **Decrease Speed** | `↓` Arrow |
-| **Move Forward** (Free Cam) | `W` |
-| **Move Backward** (Free Cam) | `S` |
-| **Strafe Left** (Free Cam) | `A` |
-| **Strafe Right** (Free Cam) | `D` |
-| **Move Up** (Free Cam) | `E` |
-| **Move Down** (Free Cam) | `Q` |
-| **Look Around** (Free Cam) | Mouse Drag |
-| **Pause/Resume** | `Spacebar` |
-
----
 
 ## 🔧 Running Locally
 
