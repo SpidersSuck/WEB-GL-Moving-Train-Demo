@@ -184,25 +184,10 @@ python -m http.server 8000
 
 Tested and optimized for:
 - ✅ Chrome 90+
-- ✅ Firefox 88+
 - ✅ Edge 90+
 - ✅ Safari 14+ (WebGL support required)
 
 Requires WebGL 1.0 support and `OES_element_index_uint` extension for large models.
-
----
-
-## 📬 Contact
-
-**Julian Hutchins**  
-Computer Science Student - Washington State University  
-[GitHub Portfolio](https://github.com/SpidersSuck/Portfolio)
-
----
-
-## 📄 License
-
-Educational project - see portfolio repository for licensing details.
 
 ---
 
